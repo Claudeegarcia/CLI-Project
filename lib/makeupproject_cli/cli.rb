@@ -36,6 +36,7 @@ class CLI
         4. Mascara(Dior IT-Lash)
         DOC
     end
+    
     def choose_option(option)
         case option
         when "1"
